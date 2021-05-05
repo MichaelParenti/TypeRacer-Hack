@@ -1,7 +1,7 @@
 # TypeRacer-Hack
 
 
-*****************************Instructions************************************
+-------------------------------------Instructions-------------------------------------
 
  1. Copy and paste the code below into the developer console.
  2. If you get an error repeat step 1.
